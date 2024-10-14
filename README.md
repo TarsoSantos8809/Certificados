@@ -6,23 +6,23 @@ Bem-vindo ao meu repositório de certificados! Aqui você encontrará todos os c
 
 ## 1. Certificados da área de Qualidade de Software
 
-![Testes funcionais com Selenium WebDriver: Do básico ao GRID]<img src="certificados/images/TesteFuncionalSeleniumWebDriver.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Testes funcionais com Selenium WebDriver: Do básico ao GRID](/certificados/images/TesteFuncionalSeleniumWebDriver.jpg)
 
-![Automação Web - Cypress e Cucumber]<img src="certificados/images/AutomacaoWebCypressCucumber.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Automação Web - Cypress e Cucumber](/certificados/images/AutomacaoWebCypressCucumber.jpg) 
 
-![Aprenda BDD com Cucumber em JAVA]<img src="certificados/images/BDDCucumberJava.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Aprenda BDD com Cucumber em JAVA](/certificados/images/BDDCucumberJava.jpg)
 
-![BDD eXperience]<img src="certificados/images/BDDeXpress.jpg" alt="Texto alternativo" width="800" height="500"/>
+![BDD eXperience](/certificados/images/BDDeXpress.jpg)
 
-![JMeter - Testes de performance]<img src="certificados/images/JmeterTestPerformance.jpg" alt="Texto alternativo" width="800" height="500"/>
+![JMeter - Testes de performance](/certificados/images/JmeterTestPerformance.jpg)
 
-![Robot Framework e Appium para Android e IOS]<img src="certificados/images/RobotFrameworkAppiumAndroid.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Robot Framework e Appium para Android e IOS](/certificados/images/RobotFrameworkAppiumAndroid.jpg)
 
-![Testes end-to-end com Cypress]<img src="certificados/images/Teste2e2Cypress.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Testes end-to-end com Cypress](/certificados/images/Teste2e2Cypress.jpg)
 
-![Automação de testes de API com Postman + Projeto de testes]<img src="certificados/images/TesteAPIcomPostman.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Automação de testes de API com Postman + Projeto de testes](/certificados/images/TesteAPIcomPostman.jpg)
 
-![Selenium WebDriverManager com Java + JUnit + Intellij + MVN]<img src="certificados/images/SeleniumJavaJUnitIntelliJMVN.jpg" alt="Texto alternativo" width="800" height="500"/>
+![Selenium WebDriverManager com Java + JUnit + Intellij + MVN](/certificados/images/SeleniumJavaJUnitIntelliJMVN.jpg)
 
 
 ## Sobre mim
